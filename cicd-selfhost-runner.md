@@ -1060,9 +1060,8 @@ docker logs nodejs-selfhosted-app
 ```
 
 ### บันทึกผลการรันคำสั่ง docker logs nodejs-selfhosted-app
-```txt
-บันทึกรูปผลการรันคำสั่ง
-```
+<img width="1232" height="106" alt="image" src="https://github.com/user-attachments/assets/78e161f5-17fa-4488-bb7c-42a9e84e8f3c" />
+
 
 ### ส่วนที่ 8: Monitoring และ Troubleshooting 
 
